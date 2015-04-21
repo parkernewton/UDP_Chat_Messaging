@@ -1,0 +1,1 @@
+This project was implemented as Lab 3 for COEN 146L - Computer Networks at Santa Clara University. The Linux UDP socket API establishes a chat session between two hosts. These programs should be separated into discrete directories on your file system. First run the receive program in the background, and then the send program. Follow the on-screen directions for sending messages. 
